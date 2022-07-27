@@ -33,7 +33,7 @@ InfinityCord requires **Java 8** or above, if you use **GeyserMC** use the versi
  * Maven repository (for `infinitycord-api`):
 ```xml
 <repository>
-    <id></id>
+    <id>com.github.happyrogelio7.infinitycord</id>
     <url></url>
 </repository>
 ```
@@ -42,7 +42,7 @@ InfinityCord requires **Java 8** or above, if you use **GeyserMC** use the versi
 <dependency>
     <groupId>com.github.happyrogelio7.infinitycord</groupId>
     <artifactId>infinitycord-api</artifactId>
-    <version>1.18-R0.1-SNAPSHOT-001</version>
+    <version>1.19-R0.1-SNAPSHOT-002</version>
     <scope>provided</scope>
 </dependency>
  ```
@@ -60,6 +60,12 @@ Clone this repo, run `./infinitycord b` from *bash*, get jar from InfinityCord-P
 
 ## Special Thanks To
 
-![YourKit-Logo](https://yourkit.com/images/yklogo.png)
 
-[YourKit](https://yourkit.com/), makers of the outstanding Java profiler, supports open source projects of all kinds with their full-featured [Java](https://yourkit.com/features/) and [.NET](https://yourkit.com/dotnet/features/) application profilers. We thank them for granting Waterfall an OSS license so that we can make our software the best it can be.
+![IntelliJ IDEA logo](https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png?size=100px)
+![IntelliJ IDEA logo](https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA.png)
+![Azul Java logo](https://www.azul.com/wp-content/themes/azul/dist/img/logo.svg)
+
+[IntelliJ IDEA](https://www.jetbrains.com/idea/), Code editor for Java and other programming languages and programs.
+
+[Azul Java](https://www.azul.com/) The world’s largest commercial provider of OpenJDK
+

@@ -1,0 +1,9 @@
+Version_0.0.6.txt
+1.8.X - 1.19.pre3
+Notes: 
+- Fix Errors. 
+- Support 1.19
+- Test Support 1.19.pre3
+- Update all modules
+- Update Netty 4.1.77.Final
+- Update API version: infinitycord-api-1.19-R0.1-SNAPSHOT-002
